@@ -1,0 +1,11 @@
+baseURL = 'http://ritchielrez.github.io/'
+languageCode = 'en-us'
+title = 'My hugo site'
+theme = 'contrast-hugo'
+
+[params]
+  minimal = false
+  excerpts = false
+  description = "my blog"
+
+
